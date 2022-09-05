@@ -44,7 +44,7 @@
 
 - :microscope: :computer: Exploring Python and R for science and medicine
 
-- :health_worker: :hospital: Graduated as Medical Doctor in Yakutsk, completed Bioinformatics Institute as bioinformatician
+- :health_worker: :hospital: Graduated as Medical Doctor in Yakutsk (2020), completed Bioinformatics Institute as bioinformatician (2022)
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Lyonya-gray?style=flat&logo=Telegram&logoColor=white)](https://t.me/LyonyaZhozhikov)
 
