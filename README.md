@@ -4,12 +4,11 @@
 
 <div id="badges" align="center">
 
-  <a href="https://vk.com/lyonya_zhozhikov">
-    <img src="https://img.shields.io/badge/vk-gray?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
-  </a>
-   </a>
   <a href="https://www.instagram.com/pwr_rng/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-gray?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
+  </a>
+  <a href="https://vk.com/lyonya_zhozhikov">
+    <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
   </a>
   <a href="https://www.youtube.com/user/lan21050/videos">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
