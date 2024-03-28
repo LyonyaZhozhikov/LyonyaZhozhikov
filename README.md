@@ -60,6 +60,16 @@
 
 ---
 
+- talking about cell models in medicine:
+<div style="text-align:center;">
+  <a href="https://www.youtube.com/watch?v=6ObkTHkmO6U">
+    <img src="https://img.youtube.com/vi/6ObkTHkmO6U/0.jpg" alt="Video Preview" style="max-width:200px;">
+  </a>
+</div>
+
+---
+
+
 ### :electron: Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LyonyaZhozhikov&theme=dark&background=000000)](https://git.io/streak-stats)
