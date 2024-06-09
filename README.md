@@ -69,6 +69,14 @@
 
 ---
 
+- talking about modern medical genetics:
+<div style="text-align:center;">
+  <a href="https://www.youtube.com/watch?v=y3vf3cI2ciU">
+    <img src="https://img.youtube.com/vi/y3vf3cI2ciU/0.jpg" alt="Video Preview" style="max-width:200px;">
+  </a>
+</div>
+
+---
 
 ### :electron: Stats :
 
