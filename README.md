@@ -10,12 +10,16 @@
   <a href="https://vk.com/lyonya_zhozhikov">
     <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
   </a>
+  <a href="https://www.researchgate.net/profile/Leonid-Zhozhikov-3">
+    <img src="https://img.shields.io/badge/ResearchGate-black?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"/>
+  </a>
   <a href="https://www.youtube.com/@PWR_RNG">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://orcid.org/my-orcid?orcid=0000-0002-1107-0384">
     <img src="https://img.shields.io/badge/ORCID-black?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
   </a>
+
   
 </div>
 
