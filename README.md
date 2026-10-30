@@ -52,7 +52,7 @@ Yakutsk, Russia 🇷🇺 · Ammosov North-Eastern Federal University in Yakutsk
 - :ice_cube: Junior researcher at the **Nutrigenomics lab**, Yakut Scientific Centre SB RAS
 - :microscope: NGS data interpreter at **Genomed**
 - :teacher: Teaching **Structural Bioinformatics** (in English) for the *Bioinformatics and Systems Biology* MSc program at **ITMO University**, and **Medical Genetics** at NEFU Medical Institute
-- :mortar_board: MD (Yakutsk, 2020) → Bioinformatics Institute (2022) → **PhD in Genetics** (2026)
+- :mortar_board: MD (Yakutsk, 2020) → Bioinformatics Institute (Saint Petersburg, 2022) → **PhD in Genetics** (Tomsk, 2026)
 
 ---
 
